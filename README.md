@@ -62,9 +62,6 @@ Share the account secrets among the user’s friends/family
 
 ## ScreenShots:
 
-![APP front](https://user-images.githubusercontent.com/54116506/205469985-2d8d8258-fc2a-4a4e-b163-ad62f33e1a19.JPG)
-
-
-![app guard](https://user-images.githubusercontent.com/54116506/205470007-99ea9324-fe3a-4730-a2e7-5eed8a3b9388.JPG)
+![APP front](https://user-images.githubusercontent.com/54116506/205469985-2d8d8258-fc2a-4a4e-b163-ad62f33e1a19.JPG).   ![app guard](https://user-images.githubusercontent.com/54116506/205470007-99ea9324-fe3a-4730-a2e7-5eed8a3b9388.JPG)
 
 
